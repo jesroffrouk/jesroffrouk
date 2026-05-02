@@ -19,11 +19,27 @@
 
 
 <h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://twitter.com/jesroffr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jesroffr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jogendra-padhan-1349802b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jogendra-padhan-1349802b1" height="30" width="40" /></a>
-<a href="https://instagram.com/xhaboc_hobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xhaboc_hobo" height="30" width="40" /></a>
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://twitter.com/jesroffr" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/jogendra-padhan-1349802b1" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" />
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/xhaboc_hobo" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
