@@ -4,7 +4,7 @@
 <p>I am full stack developer from India.</p>
 <p>Most of the time I preferred to work on backend.</p>
 <p>Currently working on my project PinPic.</p>
-<p> Contributed to Open source Project: https://github.com/validatorjs/validator.js</p>
+<p> Contributed to Open source Project: [<a href="https://github.com/validatorjs/validator.js" target="blank">validator.js</a>] </p> 
 
 <h1></h1>
 <h3 align="left">Tools and tech</h3>
