@@ -12,7 +12,7 @@
 
 - JavaScript, TypeScript, Python  
 - Docker, Bash, Insomnia, DBeaver  
-- WezTerm terminal and Obsidian for notes and daily workflow  
+- WezTerm terminal and neovim for daily workflow  
 
 </p>
 
